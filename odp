@@ -1,0 +1,18 @@
+Po wpisaniu komendy: git add .
+
+warning: adding embedded git repository: Repo1
+podpowiedź: You've added another git repository inside your current repository.
+podpowiedź: Clones of the outer repository will not contain the contents of
+podpowiedź: the embedded repository and will not know how to obtain it.
+podpowiedź: If you meant to add a submodule, use:
+podpowiedź: 
+podpowiedź: 	git submodule add <url> Repo1
+podpowiedź: 
+podpowiedź: If you added this path by mistake, you can remove it from the
+podpowiedź: index with:
+podpowiedź: 
+podpowiedź: 	git rm --cached Repo1
+podpowiedź: 
+podpowiedź: See "git help submodule" for more information.
+
+Wszystkie pliki z katalogu Repoz1 sa teraz sledzone
